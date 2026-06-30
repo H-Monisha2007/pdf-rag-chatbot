@@ -16,3 +16,4 @@ faiss-cpu==1.9.0
 tiktoken==0.8.0
 PyMuPDF
 pdfplumber
+pytesseract
