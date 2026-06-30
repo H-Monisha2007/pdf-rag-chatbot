@@ -1,6 +1,6 @@
 # Enterprise Multimodal RAG System Requirements
 # Python Version: 3.11.x (Recommended)
-
+  
 # UI Framework
 streamlit==1.41.1
 
